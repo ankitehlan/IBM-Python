@@ -1,1 +1,1 @@
-from . import test_operations
+from ..src.tests import test_operations
